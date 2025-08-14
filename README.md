@@ -1,4 +1,4 @@
-# Amazon Bedrock AgentCore Samples
+# PMJ Amazon Bedrock AgentCore Samples
 
 Welcome to the Amazon Bedrock AgentCore Samples repository! 
 
